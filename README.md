@@ -1,6 +1,6 @@
 # Word Type Identifier
 
-Given one word the program will comb through a massive library of well over 100,000 words and return whether the word is a noun, verb, adverb or adjective. 
+Given one word this program will comb through a massive library of well over 100,000 words and return whether the word is a noun, verb, adverb or adjective. 
 
 The program's license permits you to use this for your own projects, so please feel free to take this program and do what you want with it. 
 
