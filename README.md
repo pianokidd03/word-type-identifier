@@ -1,4 +1,4 @@
-# word-type-identifier
+# Word Type Identifier (0.1.0)
 
 Given one word the program will comb through a massive library of well over 100,000 words and return whether the word is a noun, verb, adverb or adjective. 
 
